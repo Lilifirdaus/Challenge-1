@@ -1,0 +1,467 @@
+/* Navbar */
+.background-color {
+    background-color:#F1F3FF;
+}
+
+body {
+    font-family: roboto;
+}
+
+.btn-primary {
+    font-family: roboto;
+    background: #5CB85F;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #5CB85F;
+}
+
+.navbar-brand {
+    height: 34px;
+    width: 100px;
+    left: 136px;
+    top: 25px;
+    border-radius: 0px;
+    color: black;
+}
+/* End Navbar */
+
+/* Hero Section */
+.car-handle h3 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.car-handle p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 80%;
+}
+
+.car-gambar {
+    position: relative;
+    padding: 50px 0;
+}
+
+.img-car {
+    position: absolute;
+    right: 0;
+    bottom: 0
+}
+/* End Hero Section */
+
+/* Our Services */
+.service {
+    padding-top: 104px;
+    padding-left: 206px;
+}
+
+.img-service {
+    height: 48%;
+    width: 25%;
+    border-radius: 0px;
+    position: absolute;
+}
+
+.our h3 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 0px;
+    width: 80%;
+}
+
+.our p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 80%;
+}
+/* End Our Services */
+
+/* Our Service */
+.centang {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+/* End Our Service */
+
+/* Why Us */
+.why {
+    padding-top: 50px;
+}
+
+.why h3 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 60px;
+}
+
+.why p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.text-why h5 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.text-why p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 14px;
+}
+
+.card-why {
+    height: 90%;
+    width: 268px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid #D0D0D0;
+    border-radius: 8px;
+    padding: 24px;
+}
+
+.circle-icon {
+    height: 32px;
+    width: 32px;
+    left: 24px;
+    top: 24px;
+    border-radius: 0px;
+}
+/* End Why Us */
+
+/* Testimonial */
+.section-header {
+    position: relative;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.section-header h3 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    }
+
+.section-header p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    }
+
+.testimonial-view {
+    max-width: 700px;
+    padding: 0 15px 20px;
+    margin: 0 auto 70px auto;
+    border-radius: 3px;
+}
+
+.block {
+    background: #F1F3FF;
+    color: #333;
+    padding: 40px;
+    padding-bottom: 30px;
+    margin: 50px 50px;
+    box-shadow: 0 5px 30px -5px rgba(0,0,0 0.15);
+    -webkit-box-shadow: 0 5px 30px -5px rgba(0,0,0 0.15);
+    border-radius: 8px;
+}
+
+.imageone {
+    padding-top: 55px;
+}
+
+.star-image {
+    padding: 0 0 10px 0;
+}
+
+.imageone-item {
+   padding: 5px 10px 5px 0;
+   width: 100%;
+}
+
+.imageone-item p {
+    font-size: 14px;
+    font-weight: 300px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 100%;
+}
+
+.imageone-item h5 {
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+/* End Testimonial */
+
+/* Banner */
+.card-banner {
+    height: 100%;
+    width: 100%;
+    left: 136px;
+    top: 2078px;
+    border-radius: 13px;
+    background: #0D28A6;
+    padding: 50px
+}
+
+.body-banner {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.body-banner h3 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+.body-banner p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    margin: 15px 0 50px 0;
+}
+/* End Banner */
+
+/* FAQ */
+.FAQ {
+    padding: 7em 0;
+}
+
+.judul {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.sub-judul {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.container .accordion-item {
+    border: 1px solid #D4D4D4;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 56px;
+    width: 550px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+}
+
+.container .accordion-item-one {
+    border: 1px solid #D4D4D4;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 56px;
+    width: 550px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+}
+/* End FAQ */
+
+/* Footer */
+.binar {
+    margin: 20px 0 70px 0;
+}
+.bagian-1 p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.bagian-2 p {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.bagian-3 p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.bagian-4 p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.text-para {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    color: #FFFFFF;
+    background-color: #0D28A6;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 32px;
+    border-radius: 50%;
+}
+/* End Footer */
+
+/* Mobile Version */
+@media (max-width: 576px) {
+    .car-gambar {
+        position: static;
+        align-self: center;
+    }
+
+    .service {
+        padding-top: 104px;
+        padding-left: 0px;
+    }
+
+    .img-service {
+        position: relative;
+        margin: auto;
+        align-self: center;
+        padding-top: 250px;
+        padding-left: 100px;
+        padding-right: 100px;
+        height: 100%;
+        width: 100%;
+    }
+
+    .our {
+        text-align: left;
+        margin: auto;
+        padding-left: 40px;
+        padding-top: 40px;
+    }
+
+    .our h3, .our p {
+        width: 95%;
+    }
+    
+    .why h3, .why p {
+        text-align: center;
+        margin-top: auto;
+        padding-top: 0%;
+    }
+
+    .card-why {
+        width: 100%;
+    }
+
+    .section-header h3,
+    .section-header p {
+        text-align: center;
+        margin: auto;
+    }
+
+    .imageone {
+        padding-top: 30px;
+        padding-left: 30%;
+    }
+
+    .star-image {
+        padding: 30px 0 30px 0;
+        margin: 0 80px 0 80px;
+    }
+
+    .card-banner {
+        align-self: center;
+        margin: auto;
+    }
+
+    .body-banner {
+        width: 100%;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .container .FAQ h3, 
+    .container .FAQ h3 {
+        text-align: center;
+        margin: auto;
+    }
+    .container .accordion-item {
+        width: 95%;
+        margin: auto;
+    }
+    
+    .container .accordion-item-one {
+        width: 95%;
+        margin: auto;
+    }
+
+    .judul {
+        text-align: center;
+        position: relative;
+        margin: auto;
+    }
+
+    .sub-judul {
+        text-align: center;
+        position: relative;
+        margin: auto;
+        padding: 10px 0 30px 0;
+        margin: 0 60px 0 60px; 
+    }
+
+    .binar {
+        align-content: space-between;
+    }
+}
